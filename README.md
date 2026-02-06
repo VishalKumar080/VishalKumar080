@@ -8,10 +8,9 @@ A passionate Full-Stack Developer (MERN Stack) with expertise in building scalab
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal-kumar)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com)
-[![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://coursera.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/vishal-kumar](https://www.linkedin.com/in/vishal-kumar-898a87310))
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com](https://share.google/EIEnJ1oBcLAM0BpbR))
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)]([https://leetcode.com](https://leetcode.com/u/vishalkumar99/))
 
 </div>
 
@@ -89,7 +88,7 @@ A comprehensive web-based platform allowing citizens to report streetlight malfu
 - Admin dashboard with area-based role control and approval system
 - Filtering and management tools for administrators
 
-[View Project](https://github.com) | [Live Demo](https://github.com)
+<!--[View Project](https://github.com) | [Live Demo](https://github.com) -->
 
 ---
 
@@ -103,7 +102,7 @@ An intelligent E-Commerce platform that provides users with the best deals based
 - User-friendly shopping interface
 - Deployed on GitHub Pages for public access
 
-[View Project](https://github.com) | [Live Demo](https://github.com)
+<!--[View Project](https://github.com) | [Live Demo](https://github.com) -->
 
 ---
 
@@ -117,7 +116,7 @@ A user authentication console-based ActionBoard software for efficient task mana
 - Efficient task management with vector and unordered set
 - Lambda expressions for optimized operations
 
-[View Project](https://github.com)
+<!--[View Project](https://github.com) | [Live Demo](https://github.com) -->
 
 ---
 
@@ -153,9 +152,9 @@ A user authentication console-based ActionBoard software for efficient task mana
 
 <div align="center">
 
-![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourGitHubUsername&show_icons=true&theme=radical&hide_border=true)
+![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VishalKumar080&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourGitHubUsername&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VishalKumar080&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
@@ -165,9 +164,7 @@ A user authentication console-based ActionBoard software for efficient task mana
 
 **Chandigarh Engineering College, Landran**  
 B.Tech Computer Science and Engineering | September 2022 - July 2026  
-CGPA: 7.35
 
-**Relevant Coursework:** Design and Analysis of Algorithms • OOPS Concept • DBMS • Discrete Mathematics • Compiler Design • Operating Systems • Computer Networks
 
 ---
 
@@ -184,11 +181,9 @@ CGPA: 7.35
 
 I'm always interested in hearing about new projects, opportunities, and collaborations. Feel free to reach out!
 
-- 📧 **Email:** vishalkumargpj49@gmail.com
-- 📱 **Phone:** +91-9264114340
-- 💼 **LinkedIn:** [linkedin.com/in/vishal-kumar](https://linkedin.com/in/vishal-kumar)
-- 💻 **GitHub:** [github.com](https://github.com)
-- 🎯 **LeetCode:** [leetcode.com](https://leetcode.com)
+- 📧 **Email:** vishalkumargpj491@gmail.com
+- 💼 **LinkedIn:** [linkedin.com/in/vishal-kumar]([https://linkedin.com/in/vishal-kumar]https://www.linkedin.com/in/vishal-kumar-898a87310))
+- 💻 **GitHub:** [github.com]([https://github.com](https://share.google/EIEnJ1oBcLAM0BpbR))
 
 ---
 
