@@ -88,6 +88,7 @@ I'm a Full-Stack Developer, currently pursuing B.Tech in Computer Science and En
 
 </div>
 
+---
 
 ## 🎯 Featured Projects
 
