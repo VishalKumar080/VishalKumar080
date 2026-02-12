@@ -160,14 +160,13 @@ A user authentication console-based ActionBoard software for efficient task mana
 </div>
 
 ---
-## 📊 Profile Views
+## 📊 GitHub Statistics
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=VishalKumar080&color=blue)
+**Feel free to explore my repositories and projects on [GitHub](https://github.com/VishalKumar080)**
 
 </div>
----
 
 ## 🎓 Education
 
