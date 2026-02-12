@@ -164,12 +164,12 @@ A user authentication console-based ActionBoard software for efficient task mana
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VishalKumar080&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VishalKumar080&layout=compact&theme=tokyonight&hide_border=true)
+<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=VishalKumar080&show_icons=true&theme=dark&bg_color=000000&text_color=FFFFFF&hide_border=true" />
+
+<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalKumar080&layout=compact&theme=dark&bg_color=000000&text_color=FFFFFF&hide_border=true" />
+
 </div>
-
 ---
 
 ## 🎓 Education
