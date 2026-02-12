@@ -87,7 +87,7 @@ I'm a Full-Stack Developer, currently pursuing B.Tech in Computer Science and En
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 </div>
----
+
 
 ## 🎯 Featured Projects
 
