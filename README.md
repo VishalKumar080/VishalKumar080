@@ -18,7 +18,7 @@ A passionate Full-Stack Developer (MERN Stack) with expertise in building scalab
 
 ## 🚀 About Me
 
-I'm a Full-Stack Developer based in Bihar, India, currently pursuing B.Tech in Computer Science and Engineering at Chandigarh Engineering College (graduating July 2026). With expertise in the MERN stack, I specialize in building scalable web applications and solving complex problems through clean, efficient code. I'm passionate about creating user-friendly interfaces and robust backend systems. My interests include Web Development, Data Structures & Algorithms, and Object-Oriented Programming. I'm always eager to learn new technologies and best practices, and I love collaborating with teams to deliver impactful projects.
+I'm a Full-Stack Developer, currently pursuing B.Tech in Computer Science and Engineering at Chandigarh Engineering College (graduating July 2026). With expertise in the MERN stack, I specialize in building scalable web applications and solving complex problems through clean, efficient code. I'm passionate about creating user-friendly interfaces and robust backend systems. My interests include Web Development, Data Structures & Algorithms, and Object-Oriented Programming. I'm always eager to learn new technologies and best practices, and I love collaborating with teams to deliver impactful projects.
 
 ---
 
@@ -42,6 +42,7 @@ I'm a Full-Stack Developer based in Bihar, India, currently pursuing B.Tech in C
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
 </div>
 
@@ -50,6 +51,8 @@ I'm a Full-Stack Developer based in Bihar, India, currently pursuing B.Tech in C
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 </div>
 
@@ -65,15 +68,27 @@ I'm a Full-Stack Developer based in Bihar, India, currently pursuing B.Tech in C
 
 ## 🛠️ Tools & Platforms
 
+## 🛠️ Tools & Platforms
+
 <div align="center">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![ImageKit](https://img.shields.io/badge/ImageKit-4A90E2?style=for-the-badge&logo=imagekit&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 </div>
-
 ---
 
 ## 🎯 Featured Projects
@@ -152,9 +167,9 @@ A user authentication console-based ActionBoard software for efficient task mana
 
 <div align="center">
 
-![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VishalKumar080&show_icons=true&theme=radical&hide_border=true)
+[![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VishalKumar080&show_icons=true&theme=radical&hide_border=true)](https://github.com/VishalKumar080)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VishalKumar080&layout=compact&theme=radical&hide_border=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VishalKumar080&layout=compact&theme=radical&hide_border=true)](https://github.com/VishalKumar080)
 
 </div>
 
@@ -168,22 +183,13 @@ B.Tech Computer Science and Engineering | September 2022 - July 2026
 
 ---
 
-## 💡 Core Expertise Areas
-
-- **Languages:** C++, JavaScript, TypeScript, Java, SQL
-- **Full-Stack Development:** MERN Stack (MongoDB, Express.js, React.js, Node.js)
-- **Specializations:** Data Structures & Algorithms • Object-Oriented Programming • Web Development
-- **Interpersonal Skills:** Problem Solving • Team Work • Leadership • Mentoring • Assertive Communication
-
----
-
 ## 📞 Get In Touch
 
 I'm always interested in hearing about new projects, opportunities, and collaborations. Feel free to reach out!
 
 - 📧 **Email:** vishalkumargpj491@gmail.com
-- 💼 **LinkedIn:** [linkedin.com/in/vishal-kumar]([https://linkedin.com/in/vishal-kumar]https://www.linkedin.com/in/vishal-kumar-898a87310))
-- 💻 **GitHub:** [github.com]([https://github.com](https://share.google/EIEnJ1oBcLAM0BpbR))
+- 💼 **LinkedIn:** [linkedin.com/in/vishal-kumar](https://www.linkedin.com/in/vishal-kumar-898a87310)
+- 💻 **GitHub:** [github.com](https://share.google/EIEnJ1oBcLAM0BpbR)
 
 ---
 
