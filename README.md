@@ -160,13 +160,6 @@ A user authentication console-based ActionBoard software for efficient task mana
 </div>
 
 ---
-## 📊 GitHub Statistics
-
-<div align="center">
-
-**Feel free to explore my repositories and projects on [GitHub](https://github.com/VishalKumar080)**
-
-</div>
 
 ## 🎓 Education
 
