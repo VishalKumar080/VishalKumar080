@@ -68,8 +68,6 @@ I'm a Full-Stack Developer, currently pursuing B.Tech in Computer Science and En
 
 ## 🛠️ Tools & Platforms
 
-## 🛠️ Tools & Platforms
-
 <div align="center">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -166,11 +164,10 @@ A user authentication console-based ActionBoard software for efficient task mana
 ## 📊 GitHub Stats
 
 <div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VishalKumar080&show_icons=true&theme=tokyonight&hide_border=true)
 
-[![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VishalKumar080&show_icons=true&theme=radical&hide_border=true)](https://github.com/VishalKumar080)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VishalKumar080&layout=compact&theme=radical&hide_border=true)](https://github.com/VishalKumar080)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VishalKumar080&layout=compact&theme=tokyonight&hide_border=true)
 </div>
 
 ---
