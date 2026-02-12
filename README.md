@@ -160,14 +160,11 @@ A user authentication console-based ActionBoard software for efficient task mana
 </div>
 
 ---
-
-## 📊 GitHub Stats
+## 📊 Profile Views
 
 <div align="center">
 
-<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=VishalKumar080&show_icons=true&theme=dark&bg_color=000000&text_color=FFFFFF&hide_border=true" />
-
-<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalKumar080&layout=compact&theme=dark&bg_color=000000&text_color=FFFFFF&hide_border=true" />
+![Profile views](https://komarev.com/ghpvc/?username=VishalKumar080&color=blue)
 
 </div>
 ---
